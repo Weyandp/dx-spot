@@ -29,3 +29,13 @@ Ein einfacher Discord-Bot, der auf Anfrage die **10 aktuellsten DX-Spots** per S
 git clone https://github.com/dein-benutzername/dxspot-discord-bot.git
 cd dxspot-discord-bot
 pip install -r requirements.txt
+
+
+📸 Beispielausgabe
+
+🌐 DX Spot: K1ABC
+📡 Frequenz: 14.074 MHz
+📶 Band: 20m
+👤 Spotter: DL7XYZ
+🕓 Zeit (UTC): 2025-08-06T09:35:12
+📢 Powered by Patrick Weyand
