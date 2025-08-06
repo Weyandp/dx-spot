@@ -21,7 +21,7 @@ intents.message_content = True  # wichtig für Commands
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 DX_API_URL = "https://web.cluster.iz3mez.it/spots.json/"
-STREAM_URL = "https://mp3channels.webradio.rockantenne.de/rockantenne"
+STREAM_URL = "http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3"
 
 # --- DX-Spots abrufen ---
 async def fetch_spots():
